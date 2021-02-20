@@ -2,6 +2,7 @@
 
 
 ![my brand](https://cdn.discordapp.com/attachments/746268983778607128/811384180260601866/Frame_1.png)
+
 [![Linkedin: Jacob Nguyen](https://img.shields.io/badge/-Jacob_Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob/)](https://www.linkedin.com/in/jacob-nguyen-they-them-899b80194/)
 [![Dribbble: Jacob Nguyen](https://img.shields.io/badge/-Jacob_Nguyen-ff69b4?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.linkedin.com/in/jacob/)](https://dribbble.com/nguyenjac)
 
