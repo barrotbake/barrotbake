@@ -6,7 +6,7 @@
 [![Linkedin: Jacob Nguyen](https://img.shields.io/badge/-Jacob_Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob/)](https://www.linkedin.com/in/jacob-nguyen-they-them-899b80194/)
 [![Dribbble: Jacob Nguyen](https://img.shields.io/badge/-Jacob_Nguyen-ff69b4?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.linkedin.com/in/jacob/)](https://dribbble.com/nguyenjac)
 
-<h2 style="font-weight:bold"> Howdy I'm Jacob student product designer and developer <img src="https://cdn.discordapp.com/attachments/746268983778607128/812611751945961482/ezgif.com-gif-maker_8.gif"> </h3>
+<h2 style="font-weight:bold"> Howdy I'm Jacob student product designer and developer <img src="https://cdn.discordapp.com/attachments/746268983778607128/812611014142984253/ezgif.com-gif-maker_6.gif"> </h3>
 
 <p style="font-style:italic">President of <a href="https://acmcsuf.com/">acmCSUF</a></p>
 <p style="font-style:italic">Cofounder and Head of Marketing at <a href="https://acmcsuf.com/">TuffyHacks</a></p>
