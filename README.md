@@ -13,7 +13,7 @@
 
 
 ```javascript
-const jacob = {
+const Jacob = {
   pronouns: "They/Them",
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Redux, Node, Figma, Firebase],
