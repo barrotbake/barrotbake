@@ -18,12 +18,12 @@ const Jacob = {
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Redux, Node, Figma, Firebase],
   university: "CSUF 🐘",
+  workingOn: "Camp Base ⛺️ a beginner friendly design library",
   passionateAbout: {
                         acmCSUF: "community",
                         design: "accessibility",
                         queer: "representation"
                     },
-  workingOn: "Camp Base ⛺️ a beginner friendly design library"
 }
 ```
 <h3 style="font-weight:bold">Let's get in touch! ✨ </h3>
