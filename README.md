@@ -22,7 +22,7 @@ const Jacob = {
   passionateAbout: {
                         acmCSUF: "community",
                         design: "accessibility",
-                        queer: "representation"
+                        queer: "visability & rights"
                     },
 }
 ```
