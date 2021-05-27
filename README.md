@@ -8,7 +8,7 @@
 
 <h2 style="font-weight:bold"> Howdy I'm Jacob a student product designer and developer <img src="https://cdn.discordapp.com/attachments/746268983778607128/812611014142984253/ezgif.com-gif-maker_6.gif"> </h3>
 
-<p><em>President of <a href="https://acmcsuf.com/">acmCSUF</a></em></p>
+<p><em>Ex-President of <a href="https://acmcsuf.com/">acmCSUF</a></em></p>
 <p><em>Cofounder and Head of Marketing at <a href="https://tuffyhacks.com//">TuffyHacks</a></em></p>
 
 
