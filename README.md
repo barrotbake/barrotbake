@@ -14,7 +14,7 @@
 
 ```javascript
 const Jacob = {
-  pronouns: "They/Them",
+  pronouns: "They/He/She Any",
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Redux, Node, Figma, Firebase],
   university: "CSUF 🐘",
