@@ -18,7 +18,7 @@ const Jacob = {
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Redux, Node, Figma, Firebase],
   university: "CSUF 🐘",
-  workingOn: "Camp Base ⛺️ a beginner friendly design library",
+  workingOn: "New Tech project at Microsoft",
   passionateAbout: {
                         acmCSUF: "community",
                         design: "accessibility",
