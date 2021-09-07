@@ -1,7 +1,7 @@
 
 
 
-![my brand](https://cdn.discordapp.com/attachments/746268983778607128/811384180260601866/Frame_1.png)
+![my brand](https://cdn.discordapp.com/attachments/746268983778607128/884673368094310450/unknown.png)
 
 [![Linkedin: Jacob Nguyen](https://img.shields.io/badge/-Jacob_Nguyen-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacob/)](https://www.linkedin.com/in/jacob-nguyen-they-them-899b80194/)
 [![Dribbble: Jacob Nguyen](https://img.shields.io/badge/-Jacob_Nguyen-ff69b4?style=flat-square&logo=Dribbble&logoColor=white&link=https://www.linkedin.com/in/jacob/)](https://dribbble.com/nguyenjac)
@@ -14,14 +14,14 @@
 
 ```javascript
 let Jacob = {
-  pronouns: "They/He/She Any",
+  pronouns: "They/He/She",
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Redux, Node, Figma, Firebase],
-  university: "CSUF 🐘",
-  workingOn: "New Tech internship at Microsoft",
+  university: "Cal State Fullerton 🐘",
+  workingOn: ✨Just Existing✨,
   passionateAbout: {
-                        acmCSUF: "community",
-                        design: "accessibility",
+                        ux: "engineering",
+                        science: "education & communication",
                         queer: "visability & rights"
                     },
 }
