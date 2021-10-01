@@ -18,10 +18,11 @@ let Jacob = {
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Redux, Node, Figma, Firebase],
   university: "Cal State Fullerton 🐘",
-  workingOn: "✨Just Existing✨",
+  Zodiac: "Sagittarius 🏹 "
+  workingOn: "✨ Just Existing ✨",
   passionateAbout: {
                         ux: "engineering",
-                        science: "education & communication",
+                        social: "justice"
                         queer: "visability & rights"
                     },
 }
