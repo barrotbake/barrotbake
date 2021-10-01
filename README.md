@@ -22,7 +22,7 @@ let Jacob = {
   workingOn: "✨ Just Existing ✨",
   passionateAbout: {
                         ux: "engineering",
-                        social: "justice"
+                        social: "justice",
                         queer: "visability & rights"
                     },
 }
