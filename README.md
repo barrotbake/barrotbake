@@ -18,7 +18,7 @@ let Jacob = {
   code: [Javascript, HTML, CSS, Swift, Python, C++],
   tools: [React, Redux, Node, Figma, Firebase],
   university: "Cal State Fullerton 🐘",
-  Zodiac: "Sagittarius 🏹 ",
+  zodiac: "Sagittarius 🏹 ",
   workingOn: "✨ Just Existing ✨",
   passionateAbout: {
                         ux: "engineering",
