@@ -19,7 +19,7 @@ let Jacob = {
   tools: [Svelte, React, Redux, Node, Figma, Firebase, .Net Core],
   university: "Cal State Fullerton 🐘",
   zodiac: "Sagittarius 🏹 ",
-  workingOn: "Pokekan ![pokeball](https://user-images.githubusercontent.com/40745961/234133218-8d2f91ac-1d54-4a62-a9b2-7b713f8782d6.png)
+  workingOn: "Pokekan 🔴⚪️"
 ",
 ```
 <h3 style="font-weight:bold">Let's get in touch! ✨ </h3>
