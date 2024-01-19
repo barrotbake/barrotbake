@@ -15,12 +15,12 @@
 ```javascript
 let Jacob = {
   pronouns: "He/They",
-  code: [Javascript, HTML, CSS, Swift, Python, C++, C#],
-  tools: [Svelte, React, Redux, Node, Figma, Firebase, .Net Core],
+  code: ["JS", "TS", "HTML", "CSS", "Swift", "Python", "C++", "C#"],
+  tools: ["Svelte", "React", "ReactQuery", "Node", "Figma", ".Net Core"],
   university: "Cal State Fullerton 🐘",
   zodiac: "Sagittarius 🏹 ",
   workingOn: "Pokekan 🔴⚪️"
-",
+}
 ```
 <h3 style="font-weight:bold">Let's get in touch! ✨ </h3>
 <ul>
